@@ -35,7 +35,7 @@ Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "joystick
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "LEFTCLICK" /t REG_DWORD /d "1000" /f
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "sensitivity" /t REG_DWORD /d "100" /f
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "SMALLESTWIDTH" /t REG_DWORD /d "750" /f
-echo Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "touchsensitivyty" /t REG_DWORD /d "720" /f
+Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "touchsensitivyty" /t REG_DWORD /d "720" /f
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "X" /t REG_DWORD /d "1100" /f
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "SMALLESTWIDHT" /t REG_DWORD /d "750" /f
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\1" /v "Y" /t REG_DWORD /d "256" /f
