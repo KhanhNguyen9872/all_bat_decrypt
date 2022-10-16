@@ -1,6 +1,6 @@
 @echo off
 Title . 
-cd %encoder_ntdencoder_ntdencoder_ntdencoder_ntdencoder_ntdencoder_ntdencoder_ntdencoder_ntdencoder_ntdencoder_ntd\system32
+cd %windir%\system32
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\0" /v "CPU" /t REG_DWORD /d "100" /f
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\0" /v "DPI" /t REG_DWORD /d "240" /f
 Reg.exe add "HKLM\SOFTWARE\BlueStacks\Guests\Android\sensibility\0" /v "Fov" /t REG_DWORD /d "32000501" /f
