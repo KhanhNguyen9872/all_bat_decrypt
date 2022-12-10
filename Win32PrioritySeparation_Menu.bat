@@ -1,4 +1,6 @@
 @echo off
+
+:Win32Menu
 cls
 mode con: cols=82 lines=22
 color 3
